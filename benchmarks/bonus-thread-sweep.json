@@ -1,0 +1,8 @@
+[
+  {"threads": 1, "tok_s": 2.5},
+  {"threads": 2, "tok_s": 4.8},
+  {"threads": 3, "tok_s": 5.5},
+  {"threads": 6, "tok_s": 5.9},
+  {"threads": 12, "tok_s": 4.2},
+  {"threads": 24, "tok_s": 2.8}
+]
